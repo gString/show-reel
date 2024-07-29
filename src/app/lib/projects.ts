@@ -1,0 +1,95 @@
+import { Project } from "@/app/lib/types";
+
+export const projects: { [key: string]: Project } = {
+  "001": {
+    placement: {x: 24, y: -17, angle: -22,},
+    info: {
+      title: "Horror Picture Show 0",
+      company: "ReconGate Ltd.",
+      description: "Animated slide-show, images and text",
+      brief: "Mimic the look and feel of Fox Movies site at the time: infinite loop of movies images, with a synchronized movies names slide-show under it. Hovering over the carousel stops the slideshow effect, clicking on a movie name navigate to that movie image (with sliding animation)",
+      technologies: "React, Styled-components",
+      link: "http://localhost:5173/",
+      briefLink: "https://github.com/gString/gush-horror-picture-show/blob/d072b9b5afffbc533c0ad04c2dda97a0c847841f/Recongate%20Frontend%20Assignment.docx",
+      repoLink: "https://github.com/gString/gush-horror-picture-show",
+    },
+  },
+  "002": {
+    placement: {x: 30, y: -13, angle: -10,},
+    info: {
+      title: "Horror Picture Show 1",
+      company: "ReconGate Ltd.",
+      description: "Animated slide-show, images and text",
+      brief: "Mimic the look and feel of Fox Movies site at the time: infinite loop of movies images, with a synchronized movies names slide-show under it. Hovering over the carousel stops the slideshow effect, clicking on a movie name navigate to that movie image (with sliding animation)",
+      technologies: "React, Styled-components",
+      link: "http://localhost:5173/",
+      briefLink: "https://github.com/gString/gush-horror-picture-show/blob/d072b9b5afffbc533c0ad04c2dda97a0c847841f/Recongate%20Frontend%20Assignment.docx",
+      repoLink: "https://github.com/gString/gush-horror-picture-show",
+    },
+  },
+  "003": {
+    placement: {x: 27, y: -7, angle: 0,},
+    info: {
+      title: "Horror Picture Show",
+      company: "ReconGate Ltd.",
+      description: "Animated slide-show, images and text",
+      brief: "Mimic the look and feel of Fox Movies site at the time: infinite loop of movies images, with a synchronized movies names slide-show under it. Hovering over the carousel stops the slideshow effect, clicking on a movie name navigate to that movie image (with sliding animation)",
+      technologies: "React, Styled-components",
+      link: "http://localhost:5173/",
+      briefLink: "https://github.com/gString/gush-horror-picture-show/blob/d072b9b5afffbc533c0ad04c2dda97a0c847841f/Recongate%20Frontend%20Assignment.docx",
+      repoLink: "https://github.com/gString/gush-horror-picture-show",
+    },
+  },
+  "004": {
+    placement: {x: 22, y: -2, angle: 15,},
+    info: {
+      title: "Horror Picture Show",
+      company: "ReconGate Ltd.",
+      description: "Animated slide-show, images and text",
+      brief: "Mimic the look and feel of Fox Movies site at the time: infinite loop of movies images, with a synchronized movies names slide-show under it. Hovering over the carousel stops the slideshow effect, clicking on a movie name navigate to that movie image (with sliding animation)",
+      technologies: "React, Styled-components",
+      link: "http://localhost:5173/",
+      briefLink: "https://github.com/gString/gush-horror-picture-show/blob/d072b9b5afffbc533c0ad04c2dda97a0c847841f/Recongate%20Frontend%20Assignment.docx",
+      repoLink: "https://github.com/gString/gush-horror-picture-show",
+    },
+  },
+  "005": {
+    placement: {x: -22, y: -14, angle: 195,},
+    info: {
+      title: "Horror Picture Show",
+      company: "ReconGate Ltd.",
+      description: "Animated slide-show, images and text",
+      brief: "Mimic the look and feel of Fox Movies site at the time: infinite loop of movies images, with a synchronized movies names slide-show under it. Hovering over the carousel stops the slideshow effect, clicking on a movie name navigate to that movie image (with sliding animation)",
+      technologies: "React, Styled-components",
+      link: "http://localhost:5173/",
+      briefLink: "https://github.com/gString/gush-horror-picture-show/blob/d072b9b5afffbc533c0ad04c2dda97a0c847841f/Recongate%20Frontend%20Assignment.docx",
+      repoLink: "https://github.com/gString/gush-horror-picture-show",
+    },
+  },
+  "006": {
+    placement: {x: -29, y: -9, angle: 182,},
+    info: {
+      title: "Horror Picture Show",
+      company: "ReconGate Ltd.",
+      description: "Animated slide-show, images and text",
+      brief: "Mimic the look and feel of Fox Movies site at the time: infinite loop of movies images, with a synchronized movies names slide-show under it. Hovering over the carousel stops the slideshow effect, clicking on a movie name navigate to that movie image (with sliding animation)",
+      technologies: "React, Styled-components",
+      link: "http://localhost:5173/",
+      briefLink: "https://github.com/gString/gush-horror-picture-show/blob/d072b9b5afffbc533c0ad04c2dda97a0c847841f/Recongate%20Frontend%20Assignment.docx",
+      repoLink: "https://github.com/gString/gush-horror-picture-show",
+    },
+  },
+  "007": {
+    placement: {x: -20, y: -4, angle: 167,},
+    info: {
+      title: "Horror Picture Show",
+      company: "ReconGate Ltd.",
+      description: "Animated slide-show, images and text",
+      brief: "Mimic the look and feel of Fox Movies site at the time: infinite loop of movies images, with a synchronized movies names slide-show under it. Hovering over the carousel stops the slideshow effect, clicking on a movie name navigate to that movie image (with sliding animation)",
+      technologies: "React, Styled-components",
+      link: "http://localhost:5173/",
+      briefLink: "https://github.com/gString/gush-horror-picture-show/blob/d072b9b5afffbc533c0ad04c2dda97a0c847841f/Recongate%20Frontend%20Assignment.docx",
+      repoLink: "https://github.com/gString/gush-horror-picture-show",
+    },
+  },
+}
